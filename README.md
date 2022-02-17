@@ -1,3 +1,13 @@
+HA soft est une application web de chat instantané, le langage utilisé est le react.
+L'application utilise l'API chat engine : https://chatengine.io .
+La page de connexion et l'interface de l'application a été faite avec l'aide d'un tutoriel : https://www.youtube.com/watch?v=jcOKU9f86XE .
+
+La création des utilisateurs et l'administrations des canaux de discutions peuvent être fait depuis le site suivant : https://chatengine.io .
+
+
+
+Veuillez trouver ci dessous les principales commandes pour utiliser React :
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
