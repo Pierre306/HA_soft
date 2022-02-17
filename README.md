@@ -1,4 +1,4 @@
-HA soft est une application web de chat instantané, le langage utilisé est le react.
+HA soft est une application web de chat instantané, le langage utilisé est le reactJS.
 L'application utilise l'API chat engine : https://chatengine.io .
 La page de connexion et l'interface de l'application a été faite avec l'aide d'un tutoriel : https://www.youtube.com/watch?v=jcOKU9f86XE .
 
